@@ -1,0 +1,196 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.image-container {
+    background-image: url(../images/banner.jpeg);
+    background-size: cover;
+    height: 700px;
+}
+.text-area {
+    float: left;
+    margin: 300px auto auto 100px;
+    width: 400px;
+}
+.text-area h4{
+    text-transform: uppercase;
+    color: #221c1f;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.text-area h1{
+    text-transform: capitalize;
+    color: #221c1f;
+    display: inline-block;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.text-area button{
+    padding: 15px;
+    border-radius: 20px;
+    margin: 0 0 0 28px;
+    border: none;
+    text-transform: capitalize;
+    font-size: 14px;
+    width: 160px;
+}
+.about-content {
+    padding: 0px 100px;
+}
+.section-gap {
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+h2.heading{
+    font-weight: normal;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+}
+.about-content p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.strip-content {
+    height: 100px;
+}
+.strip {
+    background-color:  #fac768;
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+    font-size: x-large;
+}
+.card-area {
+    margin-left: 140px;
+    margin-right: 140px;
+    overflow: hidden;
+}
+.card-area h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #fac768;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.card {
+    border: solid black 2px;
+    float: left;
+    width: 330px;
+    height: 400px;
+    margin-right: 20px;
+}
+.img-box1 {
+    width: 100%;
+    height: 50%;
+    background-image: url(../images/headphone1.jpg);
+    background-size: cover;
+}
+.img-box2 {
+    width: 100%;
+    height: 50%;
+    background-image: url(../images/headphone2.jpg);
+    background-size: cover;
+}
+.img-box3 {
+    width: 100%;
+    height: 50%;
+    background-image: url(../images/headphone3.jpeg);
+    background-size: cover;
+}
+.product_description {
+    background-color: #fac768;
+    width: 100%;
+    height: 50%;
+    padding: 20px;
+}
+.product_description h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    
+}
+.product_description p { 
+    font-size: 20px;
+    color: ivory;
+}
+h1.second-heading{
+    color: black;
+}
+.small-card{
+    border: solid black 2px;
+    float: left;
+    width: 242px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.small-card2{
+    border: solid black 2px;
+    float: left;
+    width: 242px;
+    height: 150px;
+    margin-right: 20px;
+}
+.imgbox1{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone1.jpg);
+    background-size: cover;
+}
+.imgbox2{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone2.jpg);
+    background-size: cover;
+}
+.imgbox3{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone3.jpeg);
+    background-size: cover;
+}
+.imgbox4{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone1.jpg);
+    background-size: cover;
+}
+.imgbox5{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone2.jpg);
+    background-size: cover;
+}
+.imgbox6{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone3.jpeg);
+    background-size: cover;
+}
+.imgbox7{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone1.jpg);
+    background-size: cover;
+}
+.imgbox8{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/headphone2.jpg);
+    background-size: cover;
+}
